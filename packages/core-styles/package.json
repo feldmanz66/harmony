@@ -1,0 +1,17 @@
+{
+  "name": "@harmony/core-styles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"this is the build script fot core-styles\""
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.3",
+    "prettier": "^1.10.2",
+    "stylelint": "^8.4.0",
+    "stylelint-config-prettier": "^2.0.0",
+    "stylelint-declaration-use-variable": "^1.6.0",
+    "validate-commit-msg": "^2.14.0"
+  }
+}
